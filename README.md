@@ -1,3 +1,3 @@
 # VSE_DZ
-Version for develop: 4.1
+Version for develop: 4.2
 
